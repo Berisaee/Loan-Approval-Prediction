@@ -77,7 +77,6 @@ The dataset contains applicant information used for predicting loan approval sta
 | K-Nearest Neighbors (KNN)    | 64.17%         |
 
 ## Best Performing Model
-
 The **Logistic Regression** model achieved the highest accuracy of **81.67%**, making it the best-performing model for loan approval prediction in this project.
 
 ---
@@ -158,3 +157,8 @@ This project helps in understanding:
 
 # Author
 Sai Beri
+
+---
+
+# License
+This project is for educational and learning purposes.
